@@ -1,0 +1,39 @@
+﻿  Source.cpp
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(88,20): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(88,20): warning C4267:         with
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(88,20): warning C4267:         [
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(88,20): warning C4267:             _Ty=int
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(88,20): warning C4267:         ]
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(90,20): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(90,20): warning C4267:         with
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(90,20): warning C4267:         [
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(90,20): warning C4267:             _Ty=int
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(90,20): warning C4267:         ]
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(275,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(275,65): warning C4244:         with
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(275,65): warning C4244:         [
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(275,65): warning C4244:             T=unsigned int
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(275,65): warning C4244:         ]
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(275,65): warning C4244:         and
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(275,65): warning C4244:         [
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(275,65): warning C4244:             T=float
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(275,65): warning C4244:         ]
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(300,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(300,70): warning C4244:         with
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(300,70): warning C4244:         [
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(300,70): warning C4244:             T=unsigned int
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(300,70): warning C4244:         ]
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(300,70): warning C4244:         and
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(300,70): warning C4244:         [
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(300,70): warning C4244:             T=float
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(300,70): warning C4244:         ]
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(323,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(323,62): warning C4244:         with
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(323,62): warning C4244:         [
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(323,62): warning C4244:             T=unsigned int
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(323,62): warning C4244:         ]
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(323,62): warning C4244:         and
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(323,62): warning C4244:         [
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(323,62): warning C4244:             T=float
+C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\Source.cpp(323,62): warning C4244:         ]
+  project dsa.vcxproj -> C:\Users\SHAHID\OneDrive\Documents\SFML-2.6.2\project dsa\x64\Debug\project dsa.exe
